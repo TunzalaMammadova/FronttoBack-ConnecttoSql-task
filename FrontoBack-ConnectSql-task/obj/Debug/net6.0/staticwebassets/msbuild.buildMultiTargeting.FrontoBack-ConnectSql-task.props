@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FrontoBack-ConnectSql-task.props" />
+</Project>
